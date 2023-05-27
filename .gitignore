@@ -1,0 +1,41 @@
+# Python-related
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+*.xlsx
+
+# Model files
+models/
+*.pkl
+*.h5
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Logs and cache
+logs/
+*.log
+.cache/
+tutorial-env/
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Miscellaneous
+.DS_Store
+.idea/
+.vscode/
